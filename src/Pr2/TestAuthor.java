@@ -1,5 +1,4 @@
 package Pr2;
-
 public class TestAuthor {
     public static void main(String[] args){
         Author me = new Author("Angelina", "angelovaat@mail.ru", 'w');

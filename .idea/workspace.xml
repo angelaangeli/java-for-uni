@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/src/Pr2/TestAuthor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pr2/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr2/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pr2/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr2/TestAuthor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663676287131</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final commit">
+      <created>1666090899851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666090899851</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
