@@ -22,6 +22,7 @@ public class Author {
     public char getGender() {
         return gender;
     }
+    @Override
     public String toString(){
         return "Author is " + " " + name + " " + email + " " + gender;
     }

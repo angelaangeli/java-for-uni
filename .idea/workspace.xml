@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit" />
+    <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/src/Pr2/Point.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666554188469</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="final commit">
+      <created>1666554307993</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666554307993</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
