@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change beforePath="$PROJECT_DIR$/src/Pr2/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr2/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/TestBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666090899851</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final commit">
+      <created>1666090960083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666090960083</updated>
+    </task>
+    <task id="LOCAL-00007" summary="final commit">
+      <created>1666091106010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666091106010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="final commit">
+      <created>1666091123298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666091123298</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
