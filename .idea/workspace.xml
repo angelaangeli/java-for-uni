@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/src/Pr3/Convector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr3/Increasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr3/RandomArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr3/TaskaOboloch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Atelier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Sizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Skirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Tie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Tshirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/WomanClothing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
