@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Atelier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/MenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Seasons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Sizes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/Tshirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4/WomanClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666559071074</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="final commit">
+      <created>1667746845104</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667746845104</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
