@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr4_1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Eleven/ConvertTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Eleven/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Planets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/First/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Six_Nine/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Six_Nine/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Six_Nine/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Six_Nine/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr7/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr7/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/TreugolPosled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/ot1ton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/otAtoB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +54,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pr6/First" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Pr2" />
     </key>
@@ -158,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667746845104</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="final commit">
+      <created>1667756275184</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667756275184</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
