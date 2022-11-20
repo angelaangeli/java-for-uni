@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/src/Spiski_2/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spiski_2/Test.java" afterDir="false" />
+    <list default="true" id="3bfebc01-26c2-420b-bce9-7fa81183f07a" name="Changes" comment="final commit variant 1">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameworkCollection/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameworkCollection/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/Exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/Exception4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr19/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr20/Calculiator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr20/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr20/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr22/PolandCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr23/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr23/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr23/ArrayQueueModule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-for-uni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-for-uni.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -30,12 +47,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Pr6/First" />
@@ -165,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667756275184</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="final commit variant 1">
+      <created>1668286795568</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668286795569</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +208,7 @@
     <MESSAGE value="sec comm" />
     <MESSAGE value="third comm" />
     <MESSAGE value="final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+    <MESSAGE value="final commit variant 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit variant 1" />
   </component>
 </project>
