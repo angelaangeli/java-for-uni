@@ -8,7 +8,6 @@ public class Exception1 {
             System.out.println("Attempted division by zero");
         }
     }
-
     public static void main(String[] args) {
         exceptionDemo();
     }
