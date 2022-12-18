@@ -5,11 +5,12 @@ public class Tester {
         BinTree tree = new BinTree();
         // вставляем узлы в дерево:
         tree.insertNode(10);
-        tree.insertNode(13);
+        tree.insertNode(33);
         tree.insertNode(3);
+        tree.insertNode(2);
         tree.insertNode(8);
         tree.insertNode(4);
-        tree.insertNode(33);
+        tree.insertNode(13);
         tree.insertNode(7);
         tree.insertNode(8);
         tree.insertNode(9);
